@@ -34,3 +34,4 @@ CMDDOWN=`"$DIR"/checkModifierKeys shift`
 try "subl"
 try "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl"
 try "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl"
+try "/Applications/Sublime Text 3.app/Contents/SharedSupport/bin/subl"
