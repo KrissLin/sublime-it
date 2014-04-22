@@ -1,5 +1,4 @@
-Sublime It!
-==========
+# ![Sublime-It Logo](sublime-it.png?raw=true) Sublime It!
 
 I've looked and looked for **a Sublime action for Finder** but nothing seemed to work as I'd prefer so I decided to roll my own. **Sublime It!** is a very simple Automator app that makes use of the `subl` executable (bundled with *Sublime*) to launch the current *Finder* selection in *Sublime*.
 
